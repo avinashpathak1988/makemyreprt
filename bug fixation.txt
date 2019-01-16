@@ -1,6 +1,0 @@
-medical module partha (15/01/2019)
-45,12,8(note i developed that testing should be done by itishree mam), 42
-station journals:
-64,70,73,75,76
-Station module partha (16/01/2019)
-77,80,81,78,
