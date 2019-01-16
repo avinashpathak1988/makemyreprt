@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MakeMyReportOffline.iml" filepath="$PROJECT_DIR$/MakeMyReportOffline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acra-4.6.2/acra-4.6.2.iml" filepath="$PROJECT_DIR$/acra-4.6.2/acra-4.6.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activation/activation.iml" filepath="$PROJECT_DIR$/activation/activation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/additionnal/additionnal.iml" filepath="$PROJECT_DIR$/additionnal/additionnal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circularProgressBar/circularProgressBar.iml" filepath="$PROJECT_DIR$/circularProgressBar/circularProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mail/mail.iml" filepath="$PROJECT_DIR$/mail/mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainLib/mainLib.iml" filepath="$PROJECT_DIR$/mainLib/mainLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/makeMyReportAndroid/makeMyReportAndroid.iml" filepath="$PROJECT_DIR$/makeMyReportAndroid/makeMyReportAndroid.iml" />
+    </modules>
+  </component>
+</project>

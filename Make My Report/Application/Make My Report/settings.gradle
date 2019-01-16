@@ -1,0 +1,3 @@
+include ':circularProgressBar', ':acra-4.6.2', ':activation', ':additionnal', ':mail'
+include ':mainLib'
+include ':makeMyReportAndroid'

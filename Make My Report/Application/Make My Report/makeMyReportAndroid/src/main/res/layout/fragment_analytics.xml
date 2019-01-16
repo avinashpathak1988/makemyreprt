@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/internal_screen">
+<ScrollView 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_below="@+id/layoutExpired">
+        
+        <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:layout_centerInParent="true"
+        android:id="@+id/imageViewSubmitted"/>
+    
+    <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:layout_centerInParent="true"
+        android:id="@+id/imageViewPending"/>
+    
+    <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:layout_centerInParent="true"
+        android:id="@+id/imageViewLateSubmission"/>
+    
+    <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:layout_centerInParent="true"
+        android:id="@+id/imageViewExpired"/>
+    
+    <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:layout_centerInParent="true"
+        android:id="@+id/imageViewReject"/>
+        
+    </RelativeLayout>
+        
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutSubmitted"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/activity_vertical_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin">
+        
+        <ImageView 
+	        android:layout_width="@dimen/square_width_height"
+	        android:layout_height="@dimen/square_width_height"
+	        android:adjustViewBounds="true"
+	        android:scaleType="fitCenter"
+	        android:layout_centerVertical="true"
+	        android:src="@drawable/pink_square"
+	        android:id="@+id/imageViewSubmittedSquare"/>
+        
+        <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:adjustViewBounds="true"
+	        android:scaleType="fitCenter"
+	        android:layout_marginLeft="@dimen/activity_vertical_margin"
+	        android:layout_toRightOf="@+id/imageViewSubmittedSquare"
+	        android:id="@+id/tvSubmittedSquare"/>
+        
+    </RelativeLayout>
+    
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutPending"
+        android:layout_marginLeft="@dimen/activity_vertical_margin"
+        android:layout_below="@+id/layoutSubmitted"
+        android:layout_centerHorizontal="true">
+        
+        <ImageView 
+	        android:layout_width="@dimen/square_width_height"
+	        android:layout_height="@dimen/square_width_height"
+	        android:adjustViewBounds="true"
+	        android:scaleType="fitCenter"
+	        android:layout_centerVertical="true"
+	        android:src="@drawable/blue_square"
+	        android:id="@+id/imageViewPendingSquare"/>
+        
+        <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:adjustViewBounds="true"
+	        android:scaleType="fitCenter"
+	        android:layout_marginLeft="@dimen/activity_vertical_margin"
+	        android:layout_toRightOf="@+id/imageViewPendingSquare"
+	        android:id="@+id/tvPendingSquare"/>
+        
+    </RelativeLayout>
+    
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutLateSubmission"
+        android:layout_below="@+id/layoutPending"
+        android:layout_marginLeft="@dimen/activity_vertical_margin"
+        android:layout_centerHorizontal="true">
+        
+        <ImageView 
+	        android:layout_width="@dimen/square_width_height"
+	        android:layout_height="@dimen/square_width_height"
+	        android:adjustViewBounds="true"
+	        android:scaleType="fitCenter"
+	        android:layout_centerVertical="true"
+	        android:src="@drawable/red_square"
+	        android:id="@+id/imageViewLateSubmissionSquare"/>
+        
+        <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:adjustViewBounds="true"
+	        android:scaleType="fitCenter"
+	        android:layout_marginLeft="@dimen/activity_vertical_margin"
+	        android:layout_toRightOf="@+id/imageViewLateSubmissionSquare"
+	        android:id="@+id/tvLateSubmissionSquare"/>
+        
+    </RelativeLayout>
+    
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutReject"
+        android:layout_below="@+id/layoutLateSubmission"
+        android:layout_marginLeft="@dimen/activity_vertical_margin"
+        android:layout_centerHorizontal="true">
+        
+        <ImageView 
+	        android:layout_width="@dimen/square_width_height"
+	        android:layout_height="@dimen/square_width_height"
+	        android:adjustViewBounds="true"
+	        android:scaleType="fitCenter"
+	        android:layout_centerVertical="true"
+	        android:src="@drawable/black_square"
+	        android:id="@+id/imageViewRejectSquare"/>
+        
+        <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:adjustViewBounds="true"
+	        android:scaleType="fitCenter"
+	        android:layout_marginLeft="@dimen/activity_vertical_margin"
+	        android:layout_toRightOf="@+id/imageViewRejectSquare"
+	        android:id="@+id/tvReject"/>
+        
+    </RelativeLayout>
+    
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutExpired"
+        android:layout_below="@+id/layoutReject"
+        android:layout_marginLeft="@dimen/activity_vertical_margin"
+        android:layout_centerHorizontal="true">
+        
+        <ImageView 
+	        android:layout_width="@dimen/square_width_height"
+	        android:layout_height="@dimen/square_width_height"
+	        android:adjustViewBounds="true"
+	        android:scaleType="fitCenter"
+	        android:layout_centerVertical="true"
+	        android:src="@drawable/white_square"
+	        android:id="@+id/imageViewExpireSquare"/>
+        
+        <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:adjustViewBounds="true"
+	        android:scaleType="fitCenter"
+	        android:layout_marginLeft="@dimen/activity_vertical_margin"
+	        android:layout_toRightOf="@+id/imageViewExpireSquare"
+	        android:id="@+id/tvExpire"/>
+        
+    </RelativeLayout>
+       
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/layoutProgress"
+        android:background="@color/black_transculaent"
+        android:visibility="invisible">
+        
+        <fr.castorflex.android.smoothprogressbar.SmoothProgressBar
+            android:id="@+id/google_now"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:indeterminate="true"
+            style="@style/GPlusProgressBar"/>
+    
+	    <!-- <com.luminousinfoways.makemyreportandroid.util.NumberProgressBar
+	        android:id="@+id/numberProgressBar1"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"/>-->
+       
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/layoutTransparent"
+        android:background="#00ffffff"
+        android:orientation="vertical"/>
+    
+    <include 
+           layout="@layout/custom_notification_layout"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:visibility="invisible"/>
+    
+
+</RelativeLayout>
+</ScrollView>
+</RelativeLayout>

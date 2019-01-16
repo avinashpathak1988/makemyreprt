@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00ffffff"
+    android:id="@+id/layoutBg"
+    android:visibility="invisible"
+    android:weightSum="1.0">
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:padding="@dimen/activity_vertical_margin"
+        android:id="@+id/tvMsg"
+        android:gravity="center_horizontal"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/white"/>
+    
+    <ImageView 
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:id="@+id/img"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/tvMsg"
+        android:background="@drawable/white_circle"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"/>
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/white_bg_rect_wth_grad"
+        android:id="@+id/tvOk"
+        android:text="OK"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:gravity="center"
+        android:padding="@dimen/activity_vertical_margin"
+        android:textColor="@android:color/black"/>
+
+</RelativeLayout>
+<!-- From: file:/Users/luminousinfoways/Desktop/Android/Make%20My%20Report/Application/MakeMyReportOffline/makeMyReportAndroid/src/main/res/layout/custom_notification_layout.xml -->

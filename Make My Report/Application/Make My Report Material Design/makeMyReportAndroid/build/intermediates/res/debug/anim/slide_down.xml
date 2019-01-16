@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true">
+
+    <scale
+        android:duration="1000"
+        android:fromXScale="1.0"
+        android:fromYScale="0.0"
+        android:toXScale="1.0"
+        android:toYScale="1.0" />
+
+</set><!-- From: file:/Users/luminousinfoways/Desktop/Android/Make%20My%20Report/Application/Make%20My%20Report%20Material%20Design/makeMyReportAndroid/src/main/res/anim/slide_down.xml -->

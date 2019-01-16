@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.luminousinfoways.makemyreportandroid.activity.MainActivity" >
+
+    <item android:id="@+id/action_refresh"
+        android:title="Progress Status"
+        android:icon="@drawable/ic_action_refresh_white"
+        android:orderInCategory="1"
+        app:showAsAction="always" />
+
+</menu>

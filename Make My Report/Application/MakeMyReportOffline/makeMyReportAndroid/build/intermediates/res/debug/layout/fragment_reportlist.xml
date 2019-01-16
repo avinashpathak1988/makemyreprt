@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/internal_screen" >
+        
+        <fr.castorflex.android.smoothprogressbar.SmoothProgressBar
+            android:id="@+id/google_now"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:indeterminate="true"
+            android:visibility="gone"
+            style="@style/GPlusProgressBar"/>
+        
+   <!--  <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v4.view.PagerTabStrip
+            android:id="@+id/pagerTabStrip"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="top" >
+        </android.support.v4.view.PagerTabStrip>
+    </android.support.v4.view.ViewPager>-->
+    
+    <include layout="@layout/footer_layout"
+	    android:id="@+id/layout_footer"
+	    android:layout_below="@+id/google_now"
+	    android:layout_width="match_parent"
+	    android:layout_height="40dp"/>
+    
+    <FrameLayout 
+	   android:id="@+id/fragment_place"
+	   android:layout_width="match_parent"
+	   android:layout_height="match_parent"
+	   android:layout_below="@+id/layout_footer"/>
+	   <!-- tools:context="com.luminousinfoways.enirman.activity.MainMenuActivity"
+	   tools:ignore="MergeRootFrame" />-->
+	
+	<!-- <include layout="@layout/footer_layout"
+	    android:id="@+id/layout_footer"
+	    android:layout_width="match_parent"
+	    android:layout_height="40dp"
+	    android:layout_alignParentBottom="true"/>-->    
+    
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/layoutTransparent"
+        android:background="#00ffffff"
+        android:orientation="vertical"/>
+    
+    <include 
+           layout="@layout/custom_notification_layout"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:visibility="invisible"/>
+    
+</RelativeLayout><!-- From: file:/Users/luminousinfoways/Desktop/Android/Make%20My%20Report/Application/MakeMyReportOffline/makeMyReportAndroid/src/main/res/layout/fragment_reportlist.xml -->

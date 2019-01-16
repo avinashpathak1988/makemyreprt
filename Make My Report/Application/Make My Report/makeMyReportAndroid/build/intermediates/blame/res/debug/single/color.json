@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_disable_only_holo_dark.xml",
+        "source": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\color\\abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_holo_light.xml",
+        "source": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\color\\abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_disable_only_holo_light.xml",
+        "source": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\color\\abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\color\\signin_text_color.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\color\\signin_text_color.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\color\\abs__primary_text_holo_dark.xml",
+        "source": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\color\\abs__primary_text_holo_dark.xml"
+    }
+]

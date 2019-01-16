@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+	<RelativeLayout 
+	    android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/layoutPending"
+        android:background="@color/red"
+        android:layout_weight="1">
+       <!--  <ImageView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/imgPending"
+	        android:src="@drawable/ic_action_email_black"
+	        android:layout_centerInParent="true"
+	        android:scaleType="fitCenter"
+	        android:adjustViewBounds="true"
+	        android:gravity="center"/>-->
+	    
+	    <TextView
+	        android:id="@+id/tvPending"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_centerHorizontal="true"
+	        android:gravity="center"
+	        android:layout_centerVertical="true"
+	        android:textColor="@android:color/white"
+	        android:text="@string/pending" />
+	    
+	    <LinearLayout 
+	        android:layout_width="match_parent"
+	        android:layout_height="2dp"
+	        android:orientation="horizontal"
+	        android:id="@+id/layoutPendingBtmTabSelected"
+	        android:layout_alignParentBottom="true"
+	        android:background="@color/red"/>
+	    
+	</RelativeLayout>
+
+    <RelativeLayout 
+	    android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/layoutSubmitted"
+        android:background="@color/login_btn_color_pressed"
+        android:layout_weight="1">
+        <!-- <ImageView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/imgSubmitted"
+	        android:src="@drawable/ic_action_email"
+	        android:layout_centerInParent="true"
+	        android:scaleType="fitCenter"
+	        android:adjustViewBounds="true"
+	        android:gravity="center"/>-->
+	    
+	    <TextView
+	        android:id="@+id/tvSubmitted"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_centerHorizontal="true"
+	        android:textColor="@android:color/white"
+	        android:gravity="center"
+	        android:layout_centerVertical="true"
+	        android:text="@string/submited" />
+	    
+	    <LinearLayout 
+	        android:layout_width="match_parent"
+	        android:layout_height="2dp"
+	        android:orientation="horizontal"
+	        android:id="@+id/layoutSubmittedBtmTabSelected"
+	        android:layout_alignParentBottom="true"
+	        android:background="@color/login_btn_color_pressed"/>
+	    
+	</RelativeLayout>
+    
+    <RelativeLayout 
+	    android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/layoutExpired"
+        android:background="@color/indigo"
+        android:layout_weight="1">
+        <!-- <ImageView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/imgExpired"
+	        android:src="@drawable/ic_action_email"
+	        android:layout_centerInParent="true"
+	        android:scaleType="fitCenter"
+	        android:adjustViewBounds="true"
+	        android:gravity="center"/>-->
+	    
+	    <TextView
+	        android:id="@+id/tvExpired"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_centerHorizontal="true"
+	        android:textColor="@android:color/white"
+	        android:layout_centerVertical="true"
+	        android:gravity="center"
+	        android:text="@string/expired" />
+	    
+	    <LinearLayout 
+	        android:layout_width="match_parent"
+	        android:layout_height="2dp"
+	        android:orientation="horizontal"
+	        android:id="@+id/layoutExpierdBtmTabSelected"
+	        android:layout_alignParentBottom="true"
+	        android:background="@color/indigo"/>
+	    
+	</RelativeLayout>
+       
+        
+</LinearLayout>
+<!-- From: file:/Users/luminousinfoways/Desktop/Android/Make%20My%20Report/Application/Make%20My%20Report/makeMyReportAndroid/src/main/res/layout/footer_layout.xml -->

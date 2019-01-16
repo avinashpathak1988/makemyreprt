@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+    
+    <solid android:color="@color/login_btn_color_pressed"/>
+</shape>
+
+<!-- From: file:/Users/luminousinfoways/Desktop/Android/Make%20My%20Report/Application/MakeMyReportOffline/makeMyReportAndroid/src/main/res/drawable/green_circle.xml -->

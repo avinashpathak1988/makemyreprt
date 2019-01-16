@@ -1,0 +1,13 @@
+/Users/luminousinfoways/Desktop/Android/Make My Report/Application/Make My Report/makeMyReportAndroid/build/intermediates/classes/release
+/Users/luminousinfoways/Desktop/Android/Make My Report/Application/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/release/support-annotations-21.0.3-934133b4d52d721baab9d76bfa6e6541cb8028b8.jar
+/Users/luminousinfoways/Desktop/Android/Make My Report/Application/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/release/classes-a1c293f28878c8a755fb3399415a971192f47771.jar
+/Users/luminousinfoways/Desktop/Android/Make My Report/Application/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/release/classes-5c206d37f737fd8d06944a7376f93f130f799282.jar
+/Users/luminousinfoways/Desktop/Android/Make My Report/Application/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/release/activation-44f1e874765ea2f18a5ca98946dacdc401d005ba.jar
+/Users/luminousinfoways/Desktop/Android/Make My Report/Application/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/release/additionnal-8bc97b58124e2a5c4dc8bd5af1b80905641c4440.jar
+/Users/luminousinfoways/Desktop/Android/Make My Report/Application/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/release/greendao-1.3.7-dcb9bcf59b55d3e7e249620ca9ff212c48d7a613.jar
+/Users/luminousinfoways/Desktop/Android/Make My Report/Application/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/release/acra-4.6.2-709f621a5cb326808c0a2610fdd098b21dbaf6bd.jar
+/Users/luminousinfoways/Desktop/Android/Make My Report/Application/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/release/internal_impl-21.0.3-7fe685a1b0177db68873131ff2f0eb7b2243634d.jar
+/Users/luminousinfoways/Desktop/Android/Make My Report/Application/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/release/MPAndroidChart-v2.0.8-e421d573a9f44acdfb936851c7693b450bf483e6.jar
+/Users/luminousinfoways/Desktop/Android/Make My Report/Application/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/release/classes-44272ee0905678068229acc14ad0116f82bdfca1.jar
+/Users/luminousinfoways/Desktop/Android/Make My Report/Application/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/release/mail-0b543b6b98669df3864a83a32698fdf928b48863.jar
+/Users/luminousinfoways/Desktop/Android/Make My Report/Application/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/release/classes-0b6df9570cdbb1bb45a17a573558e84e56aa920d.jar

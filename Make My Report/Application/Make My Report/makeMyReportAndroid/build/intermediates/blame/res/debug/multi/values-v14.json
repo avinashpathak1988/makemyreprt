@@ -1,0 +1,1098 @@
+[
+    {
+        "outputFile": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 64,
+                    "endOffset": 248
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 71,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 253,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endColumn": 76,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1103,
+                        "endColumn": 83,
+                        "endOffset": 1182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 132,
+                    "endOffset": 1310
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1308,
+                        "endColumn": 139,
+                        "endOffset": 1443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1315,
+                    "endColumn": 132,
+                    "endOffset": 1443
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1449,
+                        "endColumn": 139,
+                        "endOffset": 1584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1448,
+                    "endColumn": 124,
+                    "endOffset": 1568
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1590,
+                        "endColumn": 131,
+                        "endOffset": 1717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1573,
+                    "endColumn": 132,
+                    "endOffset": 1701
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1723,
+                        "endColumn": 139,
+                        "endOffset": 1858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1706,
+                    "endColumn": 148,
+                    "endOffset": 1850
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1864,
+                        "endColumn": 155,
+                        "endOffset": 2015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1855,
+                    "endColumn": 126,
+                    "endOffset": 1977
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2021,
+                        "endColumn": 133,
+                        "endOffset": 2150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1982,
+                    "endColumn": 142,
+                    "endOffset": 2120
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2156,
+                        "endColumn": 149,
+                        "endOffset": 2301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2125,
+                    "endColumn": 134,
+                    "endOffset": 2255
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2307,
+                        "endColumn": 141,
+                        "endOffset": 2444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2260,
+                    "endColumn": 150,
+                    "endOffset": 2406
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2450,
+                        "endColumn": 157,
+                        "endOffset": 2603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2411,
+                    "endColumn": 128,
+                    "endOffset": 2535
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2609,
+                        "endColumn": 135,
+                        "endOffset": 2740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2540,
+                    "endColumn": 144,
+                    "endOffset": 2680
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2746,
+                        "endColumn": 151,
+                        "endOffset": 2893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2685,
+                    "endColumn": 114,
+                    "endOffset": 2795
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2899,
+                        "endColumn": 121,
+                        "endOffset": 3016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2800,
+                    "endColumn": 126,
+                    "endOffset": 2922
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3022,
+                        "endColumn": 133,
+                        "endOffset": 3151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2927,
+                    "endColumn": 126,
+                    "endOffset": 3049
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3157,
+                        "endColumn": 133,
+                        "endOffset": 3286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3054,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 3227
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3412,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 3585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3232,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 3399
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3591,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 3758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3404,
+                    "endColumn": 84,
+                    "endOffset": 3484
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3884,
+                        "endColumn": 91,
+                        "endOffset": 3971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3489,
+                    "endColumn": 96,
+                    "endOffset": 3581
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3977,
+                        "endColumn": 103,
+                        "endOffset": 4076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3586,
+                    "endColumn": 98,
+                    "endOffset": 3680
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4082,
+                        "endColumn": 105,
+                        "endOffset": 4183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3685,
+                    "endColumn": 100,
+                    "endOffset": 3781
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4189,
+                        "endColumn": 107,
+                        "endOffset": 4292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3786,
+                    "endColumn": 100,
+                    "endOffset": 3882
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4298,
+                        "endColumn": 107,
+                        "endOffset": 4401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3887,
+                    "endColumn": 90,
+                    "endOffset": 3973
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4407,
+                        "endColumn": 97,
+                        "endOffset": 4500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3978,
+                    "endColumn": 110,
+                    "endOffset": 4084
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4506,
+                        "endColumn": 117,
+                        "endOffset": 4619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4089,
+                    "endColumn": 108,
+                    "endOffset": 4193
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4625,
+                        "endColumn": 115,
+                        "endOffset": 4736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4198,
+                    "endColumn": 86,
+                    "endOffset": 4280
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4742,
+                        "endColumn": 93,
+                        "endOffset": 4831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4285,
+                    "endColumn": 96,
+                    "endOffset": 4377
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4837,
+                        "endColumn": 103,
+                        "endOffset": 4936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4382,
+                    "endColumn": 108,
+                    "endOffset": 4486
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4942,
+                        "endColumn": 115,
+                        "endOffset": 5053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4491,
+                    "endColumn": 124,
+                    "endOffset": 4611
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5059,
+                        "endColumn": 131,
+                        "endOffset": 5186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4616,
+                    "endColumn": 110,
+                    "endOffset": 4722
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 5192,
+                        "endColumn": 117,
+                        "endOffset": 5305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4727,
+                    "endColumn": 126,
+                    "endOffset": 4849
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5311,
+                        "endColumn": 133,
+                        "endOffset": 5440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4854,
+                    "endColumn": 112,
+                    "endOffset": 4962
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 5446,
+                        "endColumn": 119,
+                        "endOffset": 5561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4967,
+                    "endColumn": 128,
+                    "endOffset": 5091
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5567,
+                        "endColumn": 135,
+                        "endOffset": 5698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5096,
+                    "endColumn": 112,
+                    "endOffset": 5204
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 5704,
+                        "endColumn": 119,
+                        "endOffset": 5819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5209,
+                    "endColumn": 128,
+                    "endOffset": 5333
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 5825,
+                        "endColumn": 135,
+                        "endOffset": 5956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5338,
+                    "endColumn": 102,
+                    "endOffset": 5436
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 5962,
+                        "endColumn": 109,
+                        "endOffset": 6067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5441,
+                    "endColumn": 122,
+                    "endOffset": 5559
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 6073,
+                        "endColumn": 129,
+                        "endOffset": 6198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5564,
+                    "endColumn": 120,
+                    "endOffset": 5680
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 6204,
+                        "endColumn": 127,
+                        "endOffset": 6327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5685,
+                    "endColumn": 98,
+                    "endOffset": 5779
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 6333,
+                        "endColumn": 105,
+                        "endOffset": 6434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5784,
+                    "endColumn": 114,
+                    "endOffset": 5894
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 6440,
+                        "endColumn": 121,
+                        "endOffset": 6557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5899,
+                    "endColumn": 112,
+                    "endOffset": 6007
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 6563,
+                        "endColumn": 119,
+                        "endOffset": 6678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6012,
+                    "endColumn": 96,
+                    "endOffset": 6104
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 6684,
+                        "endColumn": 103,
+                        "endOffset": 6783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6109,
+                    "endColumn": 111,
+                    "endOffset": 6216
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 6789,
+                        "endColumn": 118,
+                        "endOffset": 6903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 6221,
+                    "endColumn": 100,
+                    "endOffset": 6317
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 6909,
+                        "endColumn": 107,
+                        "endOffset": 7012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 6322,
+                    "endColumn": 122,
+                    "endOffset": 6440
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 7018,
+                        "endColumn": 129,
+                        "endOffset": 7143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 6445,
+                    "endColumn": 124,
+                    "endOffset": 6565
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 7149,
+                        "endColumn": 131,
+                        "endOffset": 7276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 6570,
+                    "endColumn": 111,
+                    "endOffset": 6677
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 7282,
+                        "endColumn": 118,
+                        "endOffset": 7396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 6682,
+                    "endColumn": 100,
+                    "endOffset": 6778
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 7402,
+                        "endColumn": 107,
+                        "endOffset": 7505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 6783,
+                    "endColumn": 84,
+                    "endOffset": 6863
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 7511,
+                        "endColumn": 91,
+                        "endOffset": 7598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 6868,
+                    "endColumn": 99,
+                    "endOffset": 6963
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 7604,
+                        "endColumn": 106,
+                        "endOffset": 7706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 6968,
+                    "endColumn": 88,
+                    "endOffset": 7052
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 7712,
+                        "endColumn": 95,
+                        "endOffset": 7803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 7057,
+                    "endColumn": 110,
+                    "endOffset": 7163
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 7809,
+                        "endColumn": 117,
+                        "endOffset": 7922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 7168,
+                    "endColumn": 112,
+                    "endOffset": 7276
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 7928,
+                        "endColumn": 119,
+                        "endOffset": 8043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 7281,
+                    "endColumn": 99,
+                    "endOffset": 7376
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 8049,
+                        "endColumn": 106,
+                        "endOffset": 8151
+                    }
+                }
+            }
+        ]
+    }
+]

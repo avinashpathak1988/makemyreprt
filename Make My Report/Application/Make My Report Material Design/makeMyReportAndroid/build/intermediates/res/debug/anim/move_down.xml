@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/linear_interpolator"
+    android:fillAfter="false">
+
+   <translate
+        android:fromYDelta="0%p"
+        android:toYDelta="100%p"
+        android:duration="500" />
+</set><!-- From: file:/Users/luminousinfoways/Desktop/Android/Make%20My%20Report/Application/Make%20My%20Report%20Material%20Design/makeMyReportAndroid/src/main/res/anim/move_down.xml -->

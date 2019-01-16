@@ -1,0 +1,11 @@
+/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/classes/debug
+/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-ab167b767099a768200490c1ad29cb5def35cea5.jar
+/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/classes-833bf7add7d6a0c4e73f09651f8088d2c2a8dd63.jar
+/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/classes-0fd79f5a3e02898dbaeb767628d4eedddf351c43.jar
+/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/classes-011f192cd19f86fe4859c50f7f13f4fc0bb18dde.jar
+/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/library-2.4.0-6a549f88d680d1b621939826d3095e43379abf89.jar
+/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/greendao-1.3.7-3a7124836c5ec7952338a500e7b3f30f9f2cedd2.jar
+/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-d2b274822b3389ecb05cee941231563d62e69981.jar
+/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.0.8-e421d573a9f44acdfb936851c7693b450bf483e6.jar
+/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/classes-7f30a32a8a75823aa3d4106c4dc805152e46c30e.jar
+/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/classes-09689cabd3f92fcd70a72c2d86e641efca3d08ce.jar

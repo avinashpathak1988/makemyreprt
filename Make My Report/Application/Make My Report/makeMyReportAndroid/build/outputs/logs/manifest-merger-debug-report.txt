@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:2:1-78:12
+	package
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [Make My Report:circularProgressBar:unspecified] F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\circularProgressBar\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [Make My Report:mainLib:unspecified] F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\mainLib\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] C:\Users\Luminous\.android\build-cache\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\output\AndroidManifest.xml:3:3-70
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Luminous\.android\build-cache\23df4d386d88e1fa3a5a9e147ea3e71f54b82b6d\output\AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:20:22-72
+application
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:22:5-76:19
+MERGED from [Make My Report:circularProgressBar:unspecified] F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\circularProgressBar\build\intermediates\bundles\default\AndroidManifest.xml:9:5-20
+MERGED from [Make My Report:mainLib:unspecified] F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\mainLib\build\intermediates\bundles\default\AndroidManifest.xml:9:5-20
+MERGED from [com.actionbarsherlock:actionbarsherlock:4.4.0] C:\Users\Luminous\.android\build-cache\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\output\AndroidManifest.xml:4:3-17
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Luminous\.android\build-cache\23df4d386d88e1fa3a5a9e147ea3e71f54b82b6d\output\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:25:9-45
+	android:theme
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:27:9-66
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:23:9-43
+activity#com.luminousinfoways.makemyreport.activity.SplashActivity
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:28:9-37:20
+	android:screenOrientation
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:30:13-45
+	android:windowSoftInputMode
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:32:13-52
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:29:13-85
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:35:27-74
+activity#com.luminousinfoways.makemyreport.activity.LoginActivity
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:38:9-41:55
+	android:screenOrientation
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:40:13-49
+	android:windowSoftInputMode
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:41:13-52
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:39:13-84
+activity#com.luminousinfoways.makemyreport.activity.MainActivity
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:42:9-45:55
+	android:screenOrientation
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:44:13-49
+	android:windowSoftInputMode
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:45:13-52
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:43:13-83
+activity#com.luminousinfoways.makemyreport.activity.ReportFromDetailsActivity
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:46:9-49:55
+	android:screenOrientation
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:48:13-49
+	android:windowSoftInputMode
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:49:13-52
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:47:13-96
+activity#com.luminousinfoways.makemyreport.activity.CameraCaptureActivity
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:50:9-53:55
+	android:screenOrientation
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:52:13-49
+	android:windowSoftInputMode
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:53:13-52
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:51:13-92
+activity#com.luminousinfoways.makemyreport.util.FileChooser
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:54:9-57:55
+	android:screenOrientation
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:56:13-49
+	android:windowSoftInputMode
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:57:13-52
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:55:13-78
+activity#com.luminousinfoways.makemyreport.activity.CustomNotificationActivity
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:58:9-61:55
+	android:screenOrientation
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:60:13-49
+	android:windowSoftInputMode
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:61:13-52
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:59:13-97
+service#com.luminousinfoways.makemyreport.util.GPSTracker
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:63:9-85
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:63:18-82
+receiver#com.luminousinfoways.makemyreport.util.NetworkStateReceiver
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:66:9-70:20
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:66:19-93
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:67:13-69:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:68:17-79
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:68:25-76
+service#com.luminousinfoways.makemyreport.util.GPSService
+ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:72:9-75:39
+	android:enabled
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:74:13-35
+	android:exported
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:75:13-36
+	android:name
+		ADDED from F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\src\main\AndroidManifest.xml:73:13-44

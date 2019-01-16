@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Make My Report</string>
+    <string name="submited">Submitted</string>
+    <string name="pending">Pending</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">LOGIN</string>
+    <string name="setup">SET UP</string>
+    <string name="password">Password</string>
+    <string name="corporate">Corporate ID</string>
+    <string name="user_id">User ID</string>
+    <string name="report_list">Report List</string>
+    <string name="change_password">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="user_name">Sheikh Enayatulla</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="previously_submited">Previously submitted</string>
+    <string name="submit">SUBMIT</string>
+    <string name="reset">RESET</string>
+    <string name="save">SAVE</string>
+    <string name="next">NEXT</string>
+    <string name="remove_photo">REMOVE</string>
+    <string name="change_photo">CHANGE</string>
+
+    <!-- DEMO -->
+
+    <string name="action_already_taken">Action Already Taken(Actual)</string>
+    <string name="last_followup_date">Last Followup Date</string>
+    <string name="next_followup_date">Next Followup Date</string>
+    <string name="desc">Description</string>
+    <string name="mode_of_followup">Mode of Followup</string>
+    <string name="followup_by">Followup By</string>
+    <string name="action_to_be_taken">Action to be Taken(Planned)</string>
+    <string name="sales_stage">Sales Stage</string>
+    <string name="demonstration_done">Demonstration Done</string>
+    <string name="pricing_model_discussed">Pricing Model Discussed</string>
+    <string name="procurement_model_discussed">Procurement Model Discussed</string>
+    <string name="file_processing_status">File Processing Status</string>
+    <string name="date">Date</string>
+    <string name="email">E-Mail</string>
+    <string name="phone_call">Phone Call</string>
+    <string name="visit">Visit</string>
+    <string name="fax">Fax</string>
+    <string name="video_conference">Video Conference</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="lead_name">Lead Name</string>
+    <string name="comm_mode">Comm. Date</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="add_new_lead">Add New Lead</string>
+    <string name="follow_up">Follow Up</string>
+    <string name="lead_name_ex">e-nirman for H And UD Department</string>
+    <string name="description">Visit department. Remind special secretery to make call to PS to minister.</string>
+    <string name="comm_ex">Visit</string>
+    <string name="followup_by_name">Lalatendu Mishra</string>
+    <string name="call_to_action">ADD FOLLOWUP</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="mob_no">Mob No</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="prompt_text">Choose One</string>
+    <string name="expired">Expired</string>
+    <string name="ast"><![CDATA[<font fgcolor="red">*</font>]]></string>
+
+
+    <string name="red_asterisk">
+        <![CDATA[<font color="red">*</font>]]>
+    </string>
+
+    <string-array name="test_arrays">
+        <item>Test1</item>
+        <item>Test2</item>
+        <item>Test3</item>
+        <item>Test4</item>
+        <item>Test5</item>
+        <item>Test6</item>
+    </string-array>
+    <string-array name="interpolators">
+        <item>Accelerate</item>
+        <item>Linear</item>
+        <item>AccelerateDecelerate</item>
+        <item>Decelerate</item>
+    </string-array>
+
+    <string name="toast_crash">Something went wrong :( But no worries, a report has been sent to help fix the issue.</string>
+
+    <string name="title_activity_">ActivityA</string>
+    <string name="title_activity_activity_b">ActivityB</string>
+    <string name="confirmation_msg_to_leave_page">You have entered data into the form.\nLeaving this screen with out submitting will result in loss of data entered now.\n\nDo you want to leave this screen?</string>
+</resources>

@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\mainLib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\mainLib\\build\\intermediates\\bundles\\debug\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 861
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "outputFile": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 378,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1386
+                },
+                "from": {
+                    "file": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\mainLib\\build\\intermediates\\bundles\\default\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 861
+                    }
+                }
+            }
+        ]
+    }
+]

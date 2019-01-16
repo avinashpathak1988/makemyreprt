@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-w480dp\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 55,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 72,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-w480dp\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 72,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 61,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "C:\\Users\\Luminous\\.android\\build-cache\\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\\output\\res\\values-w480dp\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 555,
+                        "endColumn": 61,
+                        "endOffset": 612
+                    }
+                }
+            }
+        ]
+    }
+]

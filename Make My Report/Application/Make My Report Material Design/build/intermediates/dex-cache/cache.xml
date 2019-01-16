@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/libs/greendao-1.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dda08161d004c4df96938da6909f1c2b96cd33c8">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/greendao-1.3.7-3a7124836c5ec7952338a500e7b3f30f9f2cedd2.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report/makeMyReportAndroid/build/intermediates/exploded-aar/Make My Report/mainLib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="74540f8e06883c090da52ffc2de7396a066bac35">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/debug/classes-247a124e81219629ddc871ccbee4e6e153e1c3a8.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/classes-7f30a32a8a75823aa3d4106c4dc805152e46c30e.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.1.4/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/classes-011f192cd19f86fe4859c50f7f13f4fc0bb18dde.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-d2b274822b3389ecb05cee941231563d62e69981.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report/makeMyReportAndroid/build/intermediates/exploded-aar/Make My Report/circularProgressBar/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b931ae33ff1d6a883556482823aecb0c72dd2018">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/debug/classes-ad9526cace14504d334fadbdc5f5e27913dca963.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-934133b4d52d721baab9d76bfa6e6541cb8028b8.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/exploded-aar/com.github.dmytrodanylyk.android-process-button/library/1.0.4/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="88ccdbf844995d5c9c845e087068d27588b2d026">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/classes-833bf7add7d6a0c4e73f09651f8088d2c2a8dd63.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-ab167b767099a768200490c1ad29cb5def35cea5.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report/makeMyReportAndroid/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/debug/classes-08e71c3c9b5a7c9a426dd247bc62cd50293edb81.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/classes-0fd79f5a3e02898dbaeb767628d4eedddf351c43.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.0.8/a4900cefaf173fb8b416d2fe911394bac5a5ba4/MPAndroidChart-v2.0.8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0a4900cefaf173fb8b416d2fe911394bac5a5ba4">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.0.8-e421d573a9f44acdfb936851c7693b450bf483e6.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report/makeMyReportAndroid/libs/greendao-1.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dda08161d004c4df96938da6909f1c2b96cd33c8">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/debug/greendao-1.3.7-ec67efaf7d34ae8b9b90bf089ab81d74669e1aaf.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report/makeMyReportAndroid/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/debug/classes-8f3d4dba0be6cb29244ffeb5157e61e03a0bc8e2.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report/makeMyReportAndroid/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report/makeMyReportAndroid/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-27dca8d01ee49747088466541dbdc6c27915d452.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/classes-09689cabd3f92fcd70a72c2d86e641efca3d08ce.jar" />
+    </item>
+    <item
+        jar="/Users/luminousinfoways/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/luminousinfoways/Desktop/Android Apps/Apps/Make My Report Material Design/makeMyReportAndroid/build/intermediates/pre-dexed/debug/library-2.4.0-6a549f88d680d1b621939826d3095e43379abf89.jar" />
+    </item>
+
+</items>

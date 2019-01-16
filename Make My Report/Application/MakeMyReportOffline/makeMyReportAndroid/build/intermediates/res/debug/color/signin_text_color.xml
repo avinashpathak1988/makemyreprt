@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true"
+        android:color="@color/login_btn_color_pressed" /> <!-- pressed -->
+    <item android:state_focused="true"
+        android:color="@color/login_btn_color_normal" /> <!-- focused -->
+    <item android:color="@color/login_btn_color_normal" /> <!-- default -->
+</selector><!-- From: file:/Users/luminousinfoways/Desktop/Android/Make%20My%20Report/Application/MakeMyReportOffline/makeMyReportAndroid/src/main/res/color/signin_text_color.xml -->

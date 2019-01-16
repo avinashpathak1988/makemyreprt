@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Luminous\.android\build-cache\cb7e9c654e63204a03ddd9b37236e9d7ef0395d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\classes_745c8616f2e676e3c972af00617f18cd18955a4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\acra-4.6.2\acra-4.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b99297996579b72496c9f81b0c12d8404c74e618">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\acra-4.6.2_8afdc4b3e3d3adab5535ae83d198059598269504.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\libs\greendao-1.3.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dda08161d004c4df96938da6909f1c2b96cd33c8">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\greendao-1.3.7_80e29e89594432e436923c9df27bbe7543f6959e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\mainLib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd6532483ceef4863095e692b7eacf32920d0b15">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\classes_04ff9ad5a60279bd943df75b2f9f0693748ea97c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\activation\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\activation_bc7a7375cce9997784655abbf1c90fc2572f3750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\mail\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\mail_446ea2810fedf34371864dd1440a5d16db3a295b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\acra-4.6.2\acra-4.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b99297996579b72496c9f81b0c12d8404c74e618">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\acra-4.6.2_8afdc4b3e3d3adab5535ae83d198059598269504.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\libs\greendao-1.3.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dda08161d004c4df96938da6909f1c2b96cd33c8">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\greendao-1.3.7_80e29e89594432e436923c9df27bbe7543f6959e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\additionnal\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\additionnal_3729935efcc0bb04638c129526e819b4057500b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\circularProgressBar\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ff123be1233367219571aa75f20d0b048f557d">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\classes_cd3f10a5b049c948cba06d12ba84a3aa3174faeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\mainLib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd6532483ceef4863095e692b7eacf32920d0b15">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\classes_04ff9ad5a60279bd943df75b2f9f0693748ea97c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\circularProgressBar\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ff123be1233367219571aa75f20d0b048f557d">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\classes_cd3f10a5b049c948cba06d12ba84a3aa3174faeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\mail\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\mail_446ea2810fedf34371864dd1440a5d16db3a295b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\additionnal\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\additionnal_3729935efcc0bb04638c129526e819b4057500b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\activation\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="F:\AndroidProjects_Sanchita\Make My Report\Application\Make My Report\makeMyReportAndroid\build\intermediates\pre-dexed\debug\activation_bc7a7375cce9997784655abbf1c90fc2572f3750.jar" />
+    </item>
+
+</items>

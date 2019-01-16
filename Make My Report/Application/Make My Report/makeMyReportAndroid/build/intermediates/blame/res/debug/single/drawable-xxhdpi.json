@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_remove.png",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_next_item.png",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_go_to_today.png",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_go_to_today.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_drawer.png",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_email.png",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_refresh_white.png",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_refresh_white.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_accept.png",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_accept.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\drawer_shadow.9.png",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\drawable-xxhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_email_black.png",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\drawable-xxhdpi\\ic_action_email_black.png"
+    }
+]

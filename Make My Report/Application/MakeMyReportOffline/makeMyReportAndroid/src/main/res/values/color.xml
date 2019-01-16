@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_text_color">#ffffff</color>
+    <color name="app_dashboard_text_color">#ffffff</color>
+    <color name="shadow">#5483a3</color>
+    <color name="blue">#ff0099cc</color>
+    <color name="red">#E53935</color>
+    <color name="green">#00ff00</color>
+    <color name="indigo">#1E88E5</color>
+    
+    <color name="login_btn_color_normal">#ff2eba9e</color>
+    <color name="login_btn_color_pressed">#00897B</color>
+    <color name="login_btn_color_strok">#ffffff</color>
+    <color name="transulent">#33000000</color>
+    <color name="cement">#BABABA</color>
+    <color name="golden">#ffd700</color>
+    <color name="maroon">#800000</color>
+    
+    <color name="graph_color1">#1ccea2</color>
+    <color name="graph_color_2">#225246</color>
+    
+    <color name="black_transculaent">#80000000</color>
+    
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_1</item>
+    </integer-array>
+    
+    <color name="gplus_color_1">#4099FF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#e3e2dd</color>
+    <color name="gray">#5d5d5d</color>
+    
+    
+</resources>

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\together.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\together.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\bounce.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\sequential.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\sequential.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\move_up.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\move_up.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\move_down.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\move_down.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\pocket_interpolater.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\pocket_interpolater.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\flip.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\flip.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\pocket_interpolator.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\pocket_interpolator.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\blink.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\blink.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "F:\\AndroidProjects_Sanchita\\Make My Report\\Application\\Make My Report\\makeMyReportAndroid\\src\\main\\res\\anim\\fade_out.xml"
+    }
+]

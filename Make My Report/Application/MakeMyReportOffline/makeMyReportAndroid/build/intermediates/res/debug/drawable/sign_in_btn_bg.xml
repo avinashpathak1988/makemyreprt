@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:shape="rectangle">
+    <stroke android:color="@color/login_btn_color_strok" android:width="1dp"/>
+    <solid android:color="@color/login_btn_color_normal"/>
+	<!--<corners android:radius="10dp"/>-->
+</shape>
+
+<!-- From: file:/Users/luminousinfoways/Desktop/Android/Make%20My%20Report/Application/MakeMyReportOffline/makeMyReportAndroid/src/main/res/drawable/sign_in_btn_bg.xml -->
